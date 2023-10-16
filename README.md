@@ -1,7 +1,9 @@
 **[usage](#usage) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
 
 # Environmental Geophysics: Fundamentals & Applications
-Simulation and inversion notebooks in 1D and 2D for Geoscience Without Border Projects in Myanmar.
+
+This repository contains course slides and Jupyter Notebooks for a course - Environemtal Geophysics: Fundamentals & Applications - 
+at the University of Manitoba. 
 
 
 ## Usage
